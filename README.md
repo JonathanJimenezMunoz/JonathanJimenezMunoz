@@ -37,8 +37,6 @@
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanJimenezMunoz&stats_format=bytes)
-
 ---
 
 ### Contact Me
