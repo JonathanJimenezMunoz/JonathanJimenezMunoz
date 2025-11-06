@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1>Hello! I'm Jonathan Jiménez Muñoz <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 
-<!--
-**JonathanJimenezMunoz/JonathanJimenezMunoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Graduated in **Computer Engineering** from **Universidad Carlos III de Madrid**  
+- Hardworking, committed, and eager to keep learning  
+- Seeking an opportunity to apply my knowledge and grow professionally  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Currently Working At
+
+**Universidad Carlos III de Madrid**  
+**Research Support Technician | May 2025 – December 2025**  
+- Collaborating on the development of **decentralized financial oracles**  
+- Performing **statistical analysis** using databases and data processing techniques
+
+---
+
+### Contact Me
+<a href="https://www.linkedin.com/in/jonathan-jim%C3%A9nez-mu%C3%B1oz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a>
+<a href="jmjonathan121@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Maurovera069@gmail.com-blue?style=flat-square&logo=gmail"></a>  
