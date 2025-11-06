@@ -10,8 +10,7 @@
 
 ### Technologies
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanJimenezMunoz&stats_format=bytes" alt="Most Used Languages" width="350"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanJimenezMunoz&langs_count=8)](https://github.com/JonathanJimenezMunoz/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanJimenezMunoz&theme=gruvbox" alt="Most Used Languages" width="350"/>
 
 - **Programming Languages**
 
