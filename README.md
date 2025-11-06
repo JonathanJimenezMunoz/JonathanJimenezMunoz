@@ -12,7 +12,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanJimenezMunoz&theme=gruvbox" alt="Most Used Languages" width="350"/>
 
-- **Languages**
+- **Programming Languages**
 
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
@@ -20,9 +20,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
-  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
-  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=plotly)
 
 - **Databases**  
 
@@ -43,6 +40,9 @@
   ![Google Sheets](https://img.shields.io/badge/-Hojas%20de%20cálculo-333333?style=flat&logo=googlesheets)
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=plotly)
 
 ---
 
