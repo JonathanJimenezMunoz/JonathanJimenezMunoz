@@ -12,7 +12,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanJimenezMunoz&theme=gruvbox" alt="Most Used Languages" width="350"/>
 
-- **Programming Languages**
+- **Languages**
 
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
@@ -20,12 +20,18 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=plotly)
 
 - **Databases**  
 
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-
+  
+- **Machine Learning**
+  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikitlearn)
+  
 - **Blockchain**
 
   ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
