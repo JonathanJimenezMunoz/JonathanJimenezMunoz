@@ -10,6 +10,8 @@
 
 ### Technologies
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanJimenezMunoz&stats_format=bytes" alt="Most Used Languages" width="350"/>
+
 - **Programming Languages**
 
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
