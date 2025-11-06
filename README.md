@@ -25,3 +25,28 @@
 <a href="mailto:jmjonathan121@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Gmail-jmjonathan121%40gmail.com-blue?style=flat-square&logo=gmail">
 </a>
+
+---
+
+### Tecnologías
+
+**Lenguajes de programación**  
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
+
+**Bases de datos**  
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+**Blockchain**  
+![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
+![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
+
+**Herramientas**  
+![Google Sheets](https://img.shields.io/badge/-Hojas%20de%20cálculo-333333?style=flat&logo=googlesheets)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
