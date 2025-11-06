@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/jonathan-jim%C3%A9nez-mu%C3%B1oz/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jonathan%20Jiménez%20Muñoz-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="mailto:jmjonathan121@gmail.com">
+<a href="jmjonathan121@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Gmail-jmjonathan121%40gmail.com-blue?style=flat-square&logo=gmail">
 </a>
 
