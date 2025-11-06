@@ -8,15 +8,6 @@
 
 ---
 
-## Currently Working At
-
-**Universidad Carlos III de Madrid**  
-**Research Support Technician | May 2025 – December 2025**  
-- Collaborating on the development of **decentralized financial oracles**  
-- Performing **statistical analysis** using databases and data processing techniques
-
----
-
 ### Technologies
 
 - **Programming Languages**
