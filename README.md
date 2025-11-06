@@ -1,4 +1,4 @@
-<h1>Hello! I'm Jonathan Jiménez Muñoz <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+<h1>Hello! I'm Jonathan Jiménez Muñoz <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
 ## About Me
 
